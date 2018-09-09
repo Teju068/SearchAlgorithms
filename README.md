@@ -1,0 +1,2 @@
+# SearchAlgorithms
+Binary Search
